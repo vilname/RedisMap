@@ -5,7 +5,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
-.env
+src/main/resources/application.yaml
 *.iws
 *.iml
 *.ipr
